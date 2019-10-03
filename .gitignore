@@ -1,0 +1,6 @@
+.stack-work/
+hevvo.cabal
+*~
+*.swp
+
+session.vim
